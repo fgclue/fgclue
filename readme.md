@@ -6,5 +6,6 @@
 Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="3.5%"/>
 Programing Languages:
- <code><img height="40" src="https://www.tenforums.com/geek/gars/images/2/types/thumb__onfiguration_file.png"></code>
+
+<code><img height="40" src="https://www.tenforums.com/geek/gars/images/2/types/thumb__onfiguration_file.png"></code>
  
