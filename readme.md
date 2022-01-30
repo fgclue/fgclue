@@ -1,4 +1,5 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffgclue%2Ffgclue&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a> &nsbp
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffgclue%2Ffgclue&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
+
 <img src="https://i.imgur.com/iNZhd3N.gif" alt="side Gif" align="middle" width="auto" height="250"/>
 👋Hello, i'm fgclue welcome to my github page, this is where I put my public projects (that are open source).
 🕓Don't expect me to be online I don't really use github.
