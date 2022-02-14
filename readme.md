@@ -28,4 +28,5 @@ Programing Languages:
 <blockquote> OBS Studio</blockquote>
 <h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
-<h1> Thanks For reading Check Out My Repositories! <h1>
+<h1> My Github Pages! <h1>
+[a web page FULL of gifs about linux and other stuff](https://fgclue.github.io/terriblewebsiteaboutlinux/)
