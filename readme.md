@@ -29,4 +29,4 @@ Programing Languages:
 <h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
 <h1> My Github Pages! <h1>
-![ye](https://user-images.githubusercontent.com/87581499/153961846-9e60cae2-f13a-4623-838a-77d7e03d84a0.png)
+<img src="https://i.imgur.com/Vv7Ivel.png" width="3.5%"/>
