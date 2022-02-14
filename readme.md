@@ -18,13 +18,13 @@ Programing Languages:
 <code><img height="40" src="https://www.tenforums.com/geek/gars/images/2/types/thumb__onfiguration_file.png"></code>
  
 <img src="https://i.imgur.com/F9Cabke.gif" alt="side Gif" align="middle" width="auto" height="250"/>
-# and if you dont recognize the icons, heres my tools in text
-# Tools:
+<h1> and if you dont recognize the icons, heres my tools in text <h1>
+<h1> Tools: <h1>
 <blockquote> Visual Studio Code </blockquote>
 <blockquote> Shotcut </blockquote>
 <blockquote> qbittorrent </blockquote>
 <blockquote> Chrome </blockquote>
 <blockquote> Windows </blockquote>
 <blockquote> OBS Studio</blockquote>
-# also heres the proggraming languages i know
+<h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
