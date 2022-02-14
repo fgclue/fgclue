@@ -29,4 +29,5 @@ Programing Languages:
 <h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
 <h1> My Github Pages! <h1>
-[a web page FULL of gifs about linux and other stuff](https://fgclue.github.io/terriblewebsiteaboutlinux/)
+<iframe src="fgclue.github.io/terriblewebsiteaboutlinux" title="Website Full Of GIFs">
+</iframe>
