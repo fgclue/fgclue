@@ -29,4 +29,5 @@ Programing Languages:
 <h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
 <h1> My Github Pages! <h1>
-<img src="https://i.imgur.com/Vv7Ivel.png" width="20%"/>
+<img src="https://i.imgur.com/Vv7Ivel.png" width="40%"/>
+a web page FULL of gifs about windows and other stuff (https://fgclue.github.io/terriblewebsiteaboutlinux/)
