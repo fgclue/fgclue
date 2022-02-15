@@ -1,12 +1,18 @@
-<h1> fgclue's github page </h1>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffgclue%2Ffgclue&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
 
-<img src="https://i.imgur.com/iNZhd3N.gif" alt="side Gif" align="middle" width="auto" height="250"/>
+ <h1> fgclue's github page </h1>
+
+ <p align=center>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=fgclue.fgclue-badge&left_text=Visits" alt="side Gif" align="middle" width="auto" height="50"/>
+</p>
+ <p align=center>
+ <img src="https://i.imgur.com/iNZhd3N.gif" alt="side Gif" align="middle" width="auto" height="250"/>
+</p>
+ 
 # 👋Hello, i'm fgclue welcome to my github page, this is where I put my public projects (that are open source).
 # 🕓Don't expect me to be online I don't really use github.
 
 <img src="https://github-readme-stats.vercel.app/api?username=fgclue&show_icons=true&theme=radical" alt="side Gif" align="middle" width="auto" height="250"/>
-# Tools:
+Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="3.5%"/>
 <img src="https://i.imgur.com/6DyLlj3.png" width="3.5%"/>
 <img src="https://i.imgur.com/OhNHih5.png" width="3.5%"/>
@@ -33,4 +39,52 @@ Programing Languages:
 a web page FULL of gifs about windows and other stuff (https://fgclue.github.io/terriblewebsiteaboutlinux/)
 <img src="https://i.imgur.com/wrXZ8L1.png" width="40%"/>
 Black Hole Linux (in development) (https://fgclue.github.io/blackholelinux/)
-<img src="https://i.imgur.com/F9Cabke.gif" alt="side Gif" align="middle" width="auto" height="250"/>
+<h1> Linux Distros That I really Like! <h1>
+ <p align="center">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" alt="Gentoo Linux">
+</p>
+<p align="center">
+Gentoo Linux
+</p>
+ 
+ <p align="center">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux">
+</p>
+<p align="center">
+Kali Linux
+</p>
+
+  <p align="center">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" alt="Linux Mint">
+</p>
+<p align="center">
+Linux Mint
+</p>
+ 
+  <p align="center">
+  <img width="200" src="https://iconape.com/wp-content/files/gq/111028/png/ubuntu-2.png" alt="Ubuntu">
+</p>
+<p align="center">
+Ubuntu
+</p>
+ 
+  <p align="center">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch">
+</p>
+<p align="center">
+Arch
+</p>
+ 
+   <p align="center">
+  <img width="400" src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debian: The Distro Making Distro">
+</p>
+<p align="center">
+Debian
+</p>
+ 
+ <p align="center">
+One of the Best Distros For Making Distros
+</p>
+ <p align=center>
+ <img src="https://i.imgur.com/F9Cabke.gif" alt="side Gif" align="middle" width="auto" height="250"/>
+ </p>
