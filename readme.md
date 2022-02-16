@@ -35,10 +35,20 @@ Programing Languages:
 <h1> also heres the proggraming languages i know <h1>
 <blockquote> Batch </blockquote>
 <h1> My Github Pages! <h1>
-<img src="https://i.imgur.com/Vv7Ivel.png" width="40%"/>
-a web page FULL of gifs about windows and other stuff (https://fgclue.github.io/terriblewebsiteaboutlinux/)
-<img src="https://i.imgur.com/wrXZ8L1.png" width="40%"/>
-Black Hole Linux (in development) (https://fgclue.github.io/blackholelinux/)
+ <p align=center>
+ <img src="https://i.imgur.com/Vv7Ivel.png" width="40%"/>
+ </p>
+ <p align=center>
+ a web page FULL of gifs about windows and other stuff (https://fgclue.github.io/terriblewebsiteaboutlinux/)
+ </p>
+
+ <p align=center> 
+ <img src="https://i.imgur.com/wrXZ8L1.png" width="40%"/>
+ </p>
+ 
+ <p align=center>
+ Black Hole Linux (in development) (https://fgclue.github.io/blackholelinux/)
+ </p>
 <h1> Linux Distros That I really Like! <h1>
  <p align="center">
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" alt="Gentoo Linux">
