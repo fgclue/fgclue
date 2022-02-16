@@ -7,23 +7,41 @@
  <p align=center>
  <img src="https://i.imgur.com/iNZhd3N.gif" alt="side Gif" align="middle" width="auto" height="250"/>
 </p>
- 
-# 👋Hello, i'm fgclue welcome to my github page, this is where I put my public projects (that are open source).
-# 🕓Don't expect me to be online I don't really use github.
-
+ <p align=center>
+ 👋hello, i'm fgclue welcome to my github page, this is where I put my public projects (that are open source).
+ 🕓don't expect me to be online I don't really use github.
+</p>
+<p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=fgclue&show_icons=true&theme=radical" alt="side Gif" align="middle" width="auto" height="250"/>
+ </p>
+<p align=center> 
 Tools:
+ </p>
+<p align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="3.5%"/>
+ </p>
+<p align=center>
 <img src="https://i.imgur.com/6DyLlj3.png" width="3.5%"/>
+ </p>
+<p align=center>
 <img src="https://i.imgur.com/OhNHih5.png" width="3.5%"/>
+ </p>
+<p align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg" width="3.5%"/>
+ </p>
+<p align=center>
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.18169-9/11535890_432377773608401_7311771238718502323_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=TYqeQKrLttYAX-zTDhk&_nc_ht=scontent-lga3-2.xx&oh=00_AT-ij6TnC9AEukd5cMZSJRDHeAcDDxDwfpNJS6PJgQuX6g&oe=6218C69A" width="3.5%"/>
+ </p>
+<p align=center>
 <img src="https://obsproject.com/assets/images/new_icon_small-r.png" width="3.5%"/>
+ </p>
+<p align=center>
 Programing Languages:
-
+ </p>
+<p align=center>
 <code><img height="40" src="https://www.tenforums.com/geek/gars/images/2/types/thumb__onfiguration_file.png"></code>
- 
 
+ 
 <h1> and if you dont recognize the icons, heres my tools in text <h1>
 <h1> Tools: <h1>
 <blockquote> Visual Studio Code </blockquote>
