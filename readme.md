@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<center>
 <img src=https://i.imgur.com/iNZhd3N.gif>
 👋Hello, i'm fgclue welcome to my github page, this is where I put my public projects (that are open source).
 🕓Don't expect me to be online I don't really use github.
@@ -103,4 +103,4 @@ One of the Best Distros For Making Distros
  <p align=center>
  <img src="https://i.imgur.com/F9Cabke.gif" alt="side Gif" align="middle" width="auto" height="250"/>
  </p>
->>>>>>> parent of 2caa467 (How Roblox 'Beamers' Get money from Children)
+ </center>
