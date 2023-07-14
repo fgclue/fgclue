@@ -3,7 +3,7 @@ i have a website: ![Is biitle.nl up?](https://img.shields.io/website?down_color=
 
 i use ![The best browser ever](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) as my web browser, ![arch btw](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) as my distro and i use ![Michealsoft Lunix](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black).
 
-i know how to code: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+i know how to code: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 i like these javascript frameworks: ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
@@ -19,6 +19,6 @@ best text editor ever: ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&st
 
 the terminal i use: ![kitty](https://img.shields.io/badge/kitty-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-wayland > xorg.
+![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=white) > ![Xorg](https://img.shields.io/badge/Xorg-F28834?style=for-the-badge&logo=xdotorg&logoColor=white)
 
-<a rel="me" href="https://mastodon.social/@lostdev">mastodon</a>
+<a rel="me" href="https://mastodon.social/@lostdev"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"</a>
