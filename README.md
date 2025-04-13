@@ -6,4 +6,4 @@ Hey, I'm clue.
 
 Contact me at: lost＠biitle․nl
 
-(Those characters are not real symbols! Just type it in your e-mail client with the actual ats and dots)
+([Don't copy and paste it!](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/))
