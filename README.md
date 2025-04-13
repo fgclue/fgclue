@@ -4,6 +4,4 @@ Hey, I'm clue.
 
 [Portfolio](https://biitle.nl/portfolio)
 
-Contact me at: lost＠biitle․nl
-
-([Don't copy and paste it!](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/))
+Contact me at: lost＠biitle․nl ([Don't copy and paste it!](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/))
