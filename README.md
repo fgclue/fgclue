@@ -1,5 +1,4 @@
-Hey, I'm clue.
-
-[Blog](https://blog.biitle.nl)
-
-Contact me at: lost＠biitle․nl ([Don't copy and paste it!](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/))
+A short poem about me:
+Hi
+I'm Clue
+Bye
